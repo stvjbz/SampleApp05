@@ -10,4 +10,13 @@
     <string name="title_memorial">memorial</string>
     <string name="neck">neck</string>
     <string name="sleeve">sleeve</string>
+    <string name="waist">waist</string>
+    <string name="inside_leg">inside_leg</string>
+    <string name="car_number">car_number</string>
+    <string name="phone_number">phone_number</string>
+    <string name="wedding">wedding</string>
+    <string name="birthday">birthday</string>
+    <string name="birthday1">birthday1</string>
+    <string name="birthday2">birthday2</string>
+    <string name="birthday3">birthday3</string>
 </resources>
