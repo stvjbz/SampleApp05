@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">サンプルアプリ０５</string>
+    <string name="app_short_name">アプリ０５</string>
+    <string name="navigation_drawer_close">ナビゲーションドロアを閉じる</string>
+    <string name="navigation_drawer_open">ナビゲーションドロアを開く</string>
+    <string name="neck">首回り</string>
+    <string name="sleeve">そで丈</string>
+    <string name="title_memorial">記念日</string>
+    <string name="title_mysize">体のサイズ</string>
+    <string name="title_property">持ち物</string>
+</resources>
