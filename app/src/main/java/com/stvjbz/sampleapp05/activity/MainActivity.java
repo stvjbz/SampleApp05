@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
     final String[] fragments = {
-            "com.stvjbz.sampleapp05.fragment.MysizeGragment",
+            "com.stvjbz.sampleapp05.fragment.MysizeFragment",
             "com.stvjbz.sampleapp05.fragment.PropertyFragment",
             "com.stvjbz.sampleapp05.fragment.MemorialFragment",
     };
